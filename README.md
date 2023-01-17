@@ -1,7 +1,5 @@
 # Responsive Christmas Website ⛄️
 
-## [Watch it on youtube](https://youtu.be/HrZSQpxfIxw)
-
 ### Responsive Christmas Website ⛄️
 
 - Responsive Christmas Website Using HTML CSS & JavaScript
